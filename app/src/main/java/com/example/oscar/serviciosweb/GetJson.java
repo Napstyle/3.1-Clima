@@ -14,10 +14,6 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/**
- * Created by oscar on 20/03/18.
- */
-
 public class GetJson extends AsyncTask<Void,Void,Void> {
 
     String data ="";
